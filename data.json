@@ -1,0 +1,19 @@
+{
+  "username": "aliraza",
+  "password": "aliraza",
+  "invalidPassword": "jkljasdkljakdsjlkjljklsadjkl",
+  "url": "https://www.demoblaze.com/",
+  "welcomeText": "Welcome aliraza",
+  "InvalidCredentialsAlertText": "Wrong password.",
+  "logoutText": "Log out",
+  "succesfullsignuptext": "Sign up successful.",
+  "productAddedToCartAlert": "Product added.",
+  "orderconfirmationtext": "Thank you for your order!",
+  "name": "Ali Raza",
+  "country": "Pakistan",
+  "city": "Karachi",
+  "creditCard": "4242-4242-4242-4242",
+  "month": "12",
+  "year": "2026",
+  "orderConfirmationText": "Thank you for your purchase!"
+}
